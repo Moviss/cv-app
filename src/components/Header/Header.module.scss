@@ -29,6 +29,35 @@
   }
 }
 
+.links {
+  margin-top: -0.5rem;
+  margin-bottom: 0.5rem;
+  display: flex;
+  justify-content: center;
+}
+
+.link {
+  position: relative;
+  display: flex;
+  width: 6rem;
+  margin-left: 0.5rem;
+
+  a {
+    text-decoration: none;
+    color: cornflowerblue;
+  }
+  a:hover {
+    color: darken(cornflowerblue, 20%);
+  }
+}
+
+.linkTitle {
+  position: absolute;
+  top: 50%;
+  left: 2.6rem;
+  transform: translateY(-60%);
+}
+
 .image {
   position: absolute;
   top: 25px;
