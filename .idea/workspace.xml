@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0cbe33b-3ed1-4375-bb2a-15c3ab669f6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/ProfessionalExperience/ProfessionalExperience.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ProfessionalExperience/ProfessionalExperience.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/CareerObjective/CareerObjective.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CareerObjective/CareerObjective.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/CareerObjective/CareerObjective.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CareerObjective/CareerObjective.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ProfessionalExperience/ProfessionalExperience.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProfessionalExperience/ProfessionalExperience.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,8 +35,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/components/ProfessionalExperience/ProfessionalExperience.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="193">
-                  <caret line="52" column="56" selection-start-line="52" selection-start-column="56" selection-end-line="52" selection-end-column="56" />
+                <state relative-caret-position="-206">
+                  <caret line="35" column="36" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
                   <folding>
                     <element signature="e#0#26#0" expanded="true" />
                   </folding>
@@ -86,8 +81,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/components/CareerObjective/CareerObjective.module.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="357">
-                  <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+                <state relative-caret-position="441">
+                  <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -242,12 +237,12 @@
       <option name="presentableId" value="Default" />
       <updated>1560965476862</updated>
       <workItem from="1560965480272" duration="1275000" />
-      <workItem from="1561005570855" duration="13260000" />
+      <workItem from="1561005570855" duration="13863000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14535000" />
+    <option name="totallyTimeSpent" value="15138000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="60" y="27" width="1860" height="1053" extended-state="6" />
@@ -383,8 +378,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/ProfessionalExperience/ProfessionalExperience.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="52" column="56" selection-start-line="52" selection-start-column="56" selection-end-line="52" selection-end-column="56" />
+        <state relative-caret-position="-206">
+          <caret line="35" column="36" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -393,8 +388,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/CareerObjective/CareerObjective.module.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        <state relative-caret-position="441">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
         </state>
       </provider>
     </entry>

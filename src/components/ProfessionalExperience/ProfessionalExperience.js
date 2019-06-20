@@ -6,7 +6,7 @@ const jobs = [
     companyName: 'AS-PL Sp. z o.o.',
     position: 'Junior Fullstack Developer',
     period: 'Mar 2019 - Present',
-    location: 'Gdańsk, pomorskie, Poland',
+    location: 'Gdańsk, pomeranian, Poland',
     responsibilities: [
       'Design, build, or maintain web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.',
       'Perform or direct web site updates.',
@@ -19,7 +19,7 @@ const jobs = [
     companyName: '3mdeb Embedded Systems Consulting',
     position: 'Junior Frontend Developer',
     period: 'June 2018 - Feb 2019',
-    location: 'Gdańsk, pomorskie, Poland',
+    location: 'Gdańsk, pomeranian, Poland',
     responsibilities: [
       'Design, build, or maintain web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.',
       'Perform or direct web site updates.',
@@ -33,7 +33,7 @@ const jobs = [
     companyName: 'Malu',
     position: 'Frontend Developer',
     period: 'Nov 2017 - June 2018',
-    location: 'Wejherowo, pomorskie, Poland',
+    location: 'Wejherowo, pomeranian, Poland',
     responsibilities: [
       'Design, build, or maintain web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.',
       'Perform or direct web site updates.',
