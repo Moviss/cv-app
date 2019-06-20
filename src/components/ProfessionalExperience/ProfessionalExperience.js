@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from '../CareerObjective/CareerObjective.module.scss';
+import styles from './ProfessionalExperience.module.scss';
 
 const jobs = [
   {
@@ -59,7 +59,7 @@ const ProfessionalExperience = () => {
           </div>
           <ul className={styles.responsibilities}>
             {job.responsibilities.map(resp => (
-              <li>
+              <li key={resp.substr(0, 5)}>
                 <p>{resp}</p>
               </li>
             ))}
