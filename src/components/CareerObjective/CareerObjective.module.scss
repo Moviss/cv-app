@@ -1,4 +1,19 @@
-.wrapper {
-  margin-top: 1.5rem;
-  text-align: center;
+.job {
+  max-width: 90%;
+  margin: 1rem auto 0 auto;
+}
+
+.companyName {
+  font-size: 0.8rem;
+}
+
+.position {
+  font-size: 0.8rem;
+  font-style: italic;
+  color: #912b2d;
+}
+
+.responsibilities {
+  text-align: left;
+  line-height: 1.8;
 }

@@ -3,7 +3,7 @@ import styles from './CareerObjective.module.scss';
 
 const CareerObjective = () => {
   return (
-    <div className={styles.wrapper}>
+    <div className="section-wrapper">
       <h2>CAREER OBJECTIVE</h2>
       <p>
         Quality-oriented professional with 1.5+ years of experience and a proven

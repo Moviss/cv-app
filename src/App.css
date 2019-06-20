@@ -3,3 +3,8 @@
   max-width: 842px;
   margin: auto;
 }
+
+.section-wrapper {
+  margin-top: 1.5rem;
+  text-align: center;
+}
