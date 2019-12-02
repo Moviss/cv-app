@@ -3,6 +3,31 @@ import styles from './ProfessionalExperience.module.scss';
 
 const jobs = [
   {
+    companyName: 'Devmeetings',
+    position: 'Mentor',
+    period: 'Mar 2019 - Present',
+    location: 'Gdańsk, pomeranian, Poland',
+    responsibilities: [
+      "During programming workshops performing presentations introducing to technology of the workshop's topic.",
+      'Helping attendees resolving workshop tasks.',
+      'Workshops topics: React and React with Typescript'
+    ]
+  },
+  {
+    companyName: 'AIC S.A.',
+    position: 'Software Developer',
+    period: 'Jul 2019 - Present',
+    location: 'Gdynia, pomeranian, Poland',
+    responsibilities: [
+      'Design, build, and maintain web applications and sites, using scripting languages, mostly Javascript and Python.',
+      'Perform applications updates.',
+      'Evaluate code to ensure that it is valid, is properly structured, meets industry standards and is compatible with browsers, devices, or operating systems.',
+      'Develop databases that support web applications and web sites.',
+      'Modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.',
+      'Using Javascript React framework and Jira.'
+    ]
+  },
+  {
     companyName: 'AS-PL Sp. z o.o.',
     position: 'Junior Fullstack Developer',
     period: 'Mar 2019 - Present',
@@ -12,7 +37,8 @@ const jobs = [
       'Perform or direct web site updates.',
       'Evaluate code to ensure that it is valid, is properly structured, meets industry standards and is compatible with browsers, devices, or operating systems.',
       'Develop databases that support web applications and web sites.',
-      'Modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.'
+      'Modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.',
+      'Using Javascript React framework and Typescript'
     ]
   },
   {
