@@ -30,7 +30,7 @@ const jobs = [
   {
     companyName: 'AS-PL Sp. z o.o.',
     position: 'Junior Fullstack Developer',
-    period: 'Mar 2019 - Present',
+    period: 'Mar 2019 - Jun 2019',
     location: 'Gdańsk, pomeranian, Poland',
     responsibilities: [
       'Design, build, or maintain web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.',
