@@ -33,7 +33,7 @@ const Header = () => {
       <div className={styles.addressWrapper}>
         <ul>
           <li>Jana III Sobieskiego 229/3A</li>
-          <li>Wejherowo, pomorskie, 84-200</li>
+          <li>Wejherowo, pomorskie, Poland</li>
           <li>+48 501 619 789</li>
           <li>marcin.lubowicz@gmail.com</li>
         </ul>

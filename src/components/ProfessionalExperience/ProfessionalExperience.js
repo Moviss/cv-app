@@ -3,6 +3,18 @@ import styles from './ProfessionalExperience.module.scss';
 
 const jobs = [
   {
+    companyName: 'Hapag-Lloyd',
+    position: 'Software Engineer',
+    period: 'May 2020 - Present',
+    location: 'Gdańsk, pomeranian, Poland',
+    responsibilities: [
+      'Design, build, and maintain web applications, using JavaScript with Vue, Quasar and Scala',
+      'Creating and performing unit and E2E tests using Jest and Cypress',
+      'Evaluate code to ensure that it is valid, is properly structured, meets industry standards and is compatible with browsers, devices, or operating systems.',
+      'Ensuring code quality by code reviews'
+    ]
+  },
+  {
     companyName: 'Devmeetings',
     position: 'Mentor',
     period: 'Mar 2019 - Present',
@@ -16,7 +28,7 @@ const jobs = [
   {
     companyName: 'AIC S.A.',
     position: 'Software Developer',
-    period: 'Jul 2019 - Present',
+    period: 'Jul 2019 - Apr 2020',
     location: 'Gdynia, pomeranian, Poland',
     responsibilities: [
       'Design, build, and maintain web applications and sites, using scripting languages, mostly Javascript and Python.',

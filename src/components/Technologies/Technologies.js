@@ -6,15 +6,15 @@ const technologies = [
   'JavaScript (ES5, ES6+)',
   'TypeScript',
   'React',
-  'VueJS',
+  'Vue',
+  'Quasar',
+  'Node',
+  'Express',
+  'MongoDB',
   'Python',
-  'Django',
-  'PHP',
-  'Symfony',
   'MySQL',
   'Docker',
-  'Git',
-  'Java'
+  'Git'
 ];
 
 const Technologies = () => {
