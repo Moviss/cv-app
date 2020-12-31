@@ -27,14 +27,14 @@ const Header = () => {
     <div className={styles.wrapper}>
       <div className={styles.name}>Marcin Lubowicz</div>
       {/* Image I am not sure it will be still here */}
-      {/*<div className={styles.image}>*/}
-      {/*  <img src={myImage} alt="Marcin Lubowicz"/>*/}
-      {/*</div>*/}
+      {/* <div className={styles.image}> */}
+      {/*  <img src={myImage} alt="Marcin Lubowicz"/> */}
+      {/* </div> */}
       <div className={styles.addressWrapper}>
         <ul>
           <li>Jana III Sobieskiego 229/3A</li>
           <li>Wejherowo, pomorskie, Poland</li>
-          <li>+48 501 619 789</li>
+          <li>+48 739 972 463</li>
           <li>marcin.lubowicz@gmail.com</li>
         </ul>
       </div>
