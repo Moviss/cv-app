@@ -1,5 +1,4 @@
 import React from 'react';
-// import myImage from '../../assets/images/my-image.jpeg';
 import styles from './Header.module.scss';
 import linkedInLogo from '../../assets/images/linkedin.png';
 import githubLogo from '../../assets/images/GitHub-Mark-32px.png';
@@ -15,21 +14,12 @@ const links = [
     url: 'https://github.com/Moviss',
     title: 'GitHub'
   }
-  // {
-  //   icon: githubLogo,
-  //   url: 'https://github.com/Moviss',
-  //   title: 'CV Online'
-  // }
 ];
 
 const Header = () => {
   return (
     <div className={styles.wrapper}>
       <div className={styles.name}>Marcin Lubowicz</div>
-      {/* Image I am not sure it will be still here */}
-      {/* <div className={styles.image}> */}
-      {/*  <img src={myImage} alt="Marcin Lubowicz"/> */}
-      {/* </div> */}
       <div className={styles.addressWrapper}>
         <ul>
           <li>Jana III Sobieskiego 229/3A</li>
